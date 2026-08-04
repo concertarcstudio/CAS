@@ -1,11 +1,17 @@
 # SC-0001 — Scene 1 Certification
 
+## Certification ID
+
+SC-0001
+
+## Status
+
+Certified
+
 ## Record Control
 
-- **Certification ID:** SC-0001
 - **Validation Case:** VC-005 — Theory of a Deadman: *Affluenza*
 - **Scope:** Scene 1, tracks 1–15
-- **Status:** Certified
 - **Milestone:** M-007 — First Certified Scene
 
 ## Certification Summary
