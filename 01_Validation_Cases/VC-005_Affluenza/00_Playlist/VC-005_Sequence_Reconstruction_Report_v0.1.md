@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1 seconds
-Output:
 # VC-005 Affluenza Sequence Reconstruction Report v0.1
 
 ## Outcome
