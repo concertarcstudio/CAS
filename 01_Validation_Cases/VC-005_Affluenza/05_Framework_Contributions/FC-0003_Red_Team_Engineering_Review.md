@@ -1,7 +1,12 @@
 # FC-0003 — Red Team Engineering Review
 
-**Status:** Candidate  
-**Source:** VC-005 / ES-0001
+## Status
+
+Candidate — validated in Scene 1
+
+## Source
+
+VC-005 / ES-0001
 
 ## Problem
 
