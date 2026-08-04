@@ -1,11 +1,11 @@
 # SA-0001 — Scene 1: Ignition
 
-## Record Control
+## Scene Overview
 
 - **Validation Case:** VC-005 — Theory of a Deadman: *Affluenza*
 - **Track Range:** 1–15
 - **Status:** Certified
-- **Certification:** SC-0001
+- **Certification Record:** SC-0001
 
 ## Scene Objective
 
@@ -52,10 +52,10 @@ TA-0001 through TA-0015 were reviewed using Blue Team analysis, Red Team challen
 
 The closing subsystem (`Santa Monica` → `Make Up Your Mind` → `By the Way - Vocal Remix` → `Say Nothing`) required systems-level review. Testing credible alternatives confirmed that the textural refresh at Track 14 prevents emotional saturation and supports the final landing at Track 15.
 
+## Certification
+
+**SC-0001 — Certified.** Scene 1 satisfies the transition, narrative, engineering, and systems-integrity gates.
+
 ## Certification Outcome
 
-Scene 1 satisfies the transition, narrative, engineering, and systems-integrity gates. It has been awarded **SC-0001**.
-
-## Certification Recommendation
-
-**Certified.**
+Scene 1 satisfies all engineering gates and has been awarded SC-0001 following successful transition, scene, and systems review.
