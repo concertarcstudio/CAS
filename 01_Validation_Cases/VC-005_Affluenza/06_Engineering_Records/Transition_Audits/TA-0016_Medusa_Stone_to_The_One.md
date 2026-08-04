@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.9 seconds
-Output:
 # TA-0016 - Medusa (Stone) to The One
 
 ## 1. Record Control
@@ -116,4 +113,3 @@ TES-0016 provides complete transition-level evidence for the stated objective: f
 This audit uses TES-0016 as its exclusive evidence source. It introduces no new observations, does not treat the design intent from SD-0002 as evidence, preserves the absence of contradicting observations, and carries all three TES-0016 evidence gaps forward without redefining them. The engineering decision is limited to the audited transition.
 
 **Traceability:** `SD-0002 -> TES-0016 -> TA-0016 -> SA-0002 -> SC-0002`
-
