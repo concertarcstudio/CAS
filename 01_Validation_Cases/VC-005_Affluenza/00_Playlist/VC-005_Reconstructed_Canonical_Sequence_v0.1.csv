@@ -1,0 +1,83 @@
+Exit code: 0
+Wall time: 0.9 seconds
+Output:
+position,song,scene,status,baseline_position,traceability,notes
+1,Lowlife,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+2,Dinosaur,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+3,Bad Girlfriend,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+4,Blow,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+5,No Surprise - Edit,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+6,Rx (Medicate),Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+7,Affluenza,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+8,Point to Prove,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+9,Bitch Came Back,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+10,Ambulance,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+11,Savages (feat. Alice Cooper),Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+12,Santa Monica,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+13,Make Up Your Mind,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+14,By the Way - Vocal Remix,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+15,Say Nothing,Scene 1,verified,,SA-0001 at 9506b5b parent history,Certified Scene 1 sequence; baseline position unavailable
+16,Medusa (Stone),Scene 2,verified,,SD-0002 v1.0 plus VC-005 scene map,Locked Scene 2 position 1 mapped to global position 16
+17,The One,Scene 2,inferred from explicit transition evidence,20,SD-0002; TES-0016; TA-0016; prior thread baseline attestation,Moved from original position 20; verified adjacency after Medusa (Stone)
+18,Nothing Could Come Between Us,Scene 2,inferred from explicit transition evidence,21,SD-0002; TES-0017; TA-0017; prior thread baseline attestation,Moved from original position 21; verified adjacency after The One
+19,Not Meant to Be,Scene 2,verified,,SD-0002 v1.0 plus SA-0002 transition inventory,Locked emotional-center position; baseline position unavailable
+20,Say Goodbye,Scene 2,verified,22,SD-0002 v1.0; prior thread baseline attestation,Moved from original position 22; follows Not Meant to Be rather than Nothing Could Come Between Us
+21,Hate My Life,Scene 2,verified,,SD-0002 v1.0 decision SD-0002-005,Resolves stale SA-0002 placeholder using later Design Locked source; baseline position unavailable
+22,Hurricane,Scene 2,verified,,SD-0002 v1.0 decision SD-0002-007,Locked recovery bridge; baseline position unavailable
+23,The Truth Is... (I Lied About Everything),Scene 2,verified,,SD-0002 v1.0 decision SD-0002-006,Locked Scene 2 closer; baseline position unavailable
+24,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+25,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+26,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+27,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+28,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+29,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+30,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+31,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+32,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+33,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+34,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+35,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+36,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+37,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+38,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+39,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+40,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+41,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+42,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+43,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+44,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+45,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+46,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+47,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+48,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+49,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+50,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+51,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+52,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+53,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+54,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+55,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+56,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+57,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+58,,Unresolved,unresolved,,No explicit repository position evidence,User confirmation or source baseline required
+59,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+60,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+61,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+62,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+63,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+64,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+65,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+66,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+67,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+68,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+69,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+70,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+71,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+72,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+73,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+74,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+75,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+76,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+77,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+78,,Archive,unresolved,,VC-005 architecture only,Archive membership rule verified; song and order unresolved
+
