@@ -1,7 +1,16 @@
 # FC-0001 — Identity Expansion
 
-**Status:** Candidate  
-**Source:** VC-005 / ES-0001 / TA-0003
+## Status
+
+Candidate — validated in Scene 1
+
+## Source
+
+VC-005 / ES-0001 / TA-0003
+
+## Proposal
+
+Add Identity Expansion as a candidate transition-analysis dimension measuring how effectively a transition reveals a new and meaningful dimension of the artist without disrupting narrative cohesion.
 
 ## Definition
 
