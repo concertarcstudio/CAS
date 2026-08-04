@@ -5,7 +5,7 @@
 - Status: Partial canonical reconstruction with complete original baseline
 - Scope: 78-position Affluenza architecture
 - Verified engineered positions: 1 through 16 and 19 through 23
-- Positions inferred from explicit transition evidence: 17 and 18
+- Positions validated by completed engineering records (TES-0016/TA-0016 and TES-0017/TA-0017): 17 and 18
 - Unresolved engineered positions: 24 through 78
 - Baseline source: `Affluenza Theory Of A Deadman.csv`, 78 rows, supplied from `G:\Downloads`
 
@@ -31,8 +31,8 @@ This artifact is canonical for the evidence it records. The baseline column pres
 | 14 | By the Way - Vocal Remix | 14 | By the Way - Vocal Remix | Verified | SA-0001 |
 | 15 | Say Nothing | 15 | Say Nothing | Verified | SA-0001 |
 | 16 | Medusa (Stone) | 17 | Drag Me to Hell | Verified | SD-0002 |
-| 17 | The One | 20 | Medusa (Stone) | Inferred from explicit transition evidence | SD-0002; TES-0016; TA-0016 |
-| 18 | Nothing Could Come Between Us | 21 | Barricade | Inferred from explicit transition evidence | SD-0002; TES-0017; TA-0017 |
+| 17 | The One | 20 | Medusa (Stone) | Validated by completed engineering records (TES-0016/TA-0016 and TES-0017/TA-0017) | SD-0002; TES-0016; TA-0016 |
+| 18 | Nothing Could Come Between Us | 21 | Barricade | Validated by completed engineering records (TES-0016/TA-0016 and TES-0017/TA-0017) | SD-0002; TES-0017; TA-0017 |
 | 19 | Not Meant to Be | 32 | Wake Up Call | Verified | SD-0002; SA-0002 |
 | 20 | Say Goodbye | 22 | The One | Verified | SD-0002 |
 | 21 | Hate My Life | 25 | Nothing Could Come Between Us | Verified | SD-0002 |

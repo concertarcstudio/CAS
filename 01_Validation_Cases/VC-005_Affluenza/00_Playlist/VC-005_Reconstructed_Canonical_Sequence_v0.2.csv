@@ -15,8 +15,8 @@ position,song,baseline_song,scene,status,baseline_position,change_type,traceabil
 14,By the Way - Vocal Remix,By the Way - Vocal Remix,Scene 1,verified,14,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
 15,Say Nothing,Say Nothing,Scene 1,verified,15,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
 16,Medusa (Stone),Drag Me to Hell,Scene 2,verified,17,moved,SD-0002 v1.0 plus VC-005 scene map,Moved from baseline 17 to engineered 16
-17,The One,Medusa (Stone),Scene 2,inferred from explicit transition evidence,20,moved,SD-0002; TES-0016; TA-0016,Moved from baseline 20 to engineered 17; verified adjacency after Medusa (Stone)
-18,Nothing Could Come Between Us,Barricade,Scene 2,inferred from explicit transition evidence,21,moved,SD-0002; TES-0017; TA-0017,Moved from baseline 21 to engineered 18; verified adjacency after The One
+17,The One,Medusa (Stone),Scene 2,Validated by completed engineering records (TES-0016/TA-0016 and TES-0017/TA-0017),20,moved,SD-0002; TES-0016; TA-0016,Moved from baseline 20 to engineered 17; verified adjacency after Medusa (Stone)
+18,Nothing Could Come Between Us,Barricade,Scene 2,Validated by completed engineering records (TES-0016/TA-0016 and TES-0017/TA-0017),21,moved,SD-0002; TES-0017; TA-0017,Moved from baseline 21 to engineered 18; verified adjacency after The One
 19,Not Meant to Be,Wake Up Call,Scene 2,verified,32,moved,SD-0002 v1.0 plus SA-0002 transition inventory,Moved from baseline 32 to engineered 19
 20,Say Goodbye,The One,Scene 2,verified,22,moved,SD-0002 v1.0 decision SD-0002-004,Moved from baseline 22 to engineered 20; follows Not Meant to Be
 21,Hate My Life,Nothing Could Come Between Us,Scene 2,verified,25,moved,SD-0002 v1.0 decision SD-0002-005,Moved from baseline 25 to engineered 21
