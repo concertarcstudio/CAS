@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.9 seconds
-Output:
 # VC-005 Reconstructed Canonical Affluenza Sequence v0.1
 
 ## Record Control
