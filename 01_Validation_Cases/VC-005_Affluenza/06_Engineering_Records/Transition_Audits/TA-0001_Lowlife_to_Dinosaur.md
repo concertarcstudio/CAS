@@ -1,17 +1,27 @@
 # TA-0001 — Lowlife → Dinosaur
 
+## Transition
+
+`Lowlife` → `Dinosaur`
+
+## Intent
+
+Confirm the opener's identity statement and convert immediate attitude into forward momentum without spending the scene's full energy reserve.
+
+## Status
+
+Accepted
+
 ## Record Control
 
 - **Validation Case:** VC-005
 - **Scene:** Scene 1 — Ignition
 - **Positions:** 1 → 2
-- **Source Tracks:** `Lowlife` → `Dinosaur`
-- **Status:** Provisional Keep
 - **Audit Stage:** Narrative Build
 
 ## Transition Function
 
-Confirm the opener's identity statement and convert immediate attitude into forward momentum without spending the scene's full energy reserve.
+Establish / confirm identity.
 
 ## Engineering Assessment
 
@@ -44,9 +54,9 @@ The pair is strongly personality-driven. A third consecutive song with the same 
 
 ## Decision
 
-**KEEP** `Lowlife` → `Dinosaur` as positions 1 and 2.
+**Accepted:** retain `Lowlife` → `Dinosaur` as positions 1 and 2.
 
-No resequencing is justified at this stage. This transition fulfills the Scene 1 opening requirement and should survive into the Director's Cut unless a later full-scene listener test reveals an unexpected pacing issue.
+No resequencing is justified. This transition fulfills the Scene 1 opening requirement and survived the Scene 1 certification review.
 
 ## Evidence Generated
 
@@ -54,4 +64,4 @@ No resequencing is justified at this stage. This transition fulfills the Scene 1
 
 ## Follow-Up
 
-Audit `Dinosaur` → `Bad Girlfriend` to ensure Track 3 changes the audience payoff rather than repeating the same personality function.
+Completed through SC-0001 Scene 1 Certification.
