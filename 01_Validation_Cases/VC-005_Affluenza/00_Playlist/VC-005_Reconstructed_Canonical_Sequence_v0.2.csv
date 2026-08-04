@@ -1,0 +1,80 @@
+position,song,baseline_song,scene,status,baseline_position,change_type,traceability,notes
+1,Lowlife,Lowlife,Scene 1,verified,1,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+2,Dinosaur,Dinosaur,Scene 1,verified,2,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+3,Bad Girlfriend,Bad Girlfriend,Scene 1,verified,3,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+4,Blow,Blow,Scene 1,verified,4,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+5,No Surprise - Edit,No Surprise - Edit,Scene 1,verified,5,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+6,Rx (Medicate),Rx (Medicate),Scene 1,verified,6,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+7,Affluenza,Affluenza,Scene 1,verified,7,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+8,Point to Prove,Point to Prove,Scene 1,verified,8,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+9,Bitch Came Back,Bitch Came Back,Scene 1,verified,9,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+10,Ambulance,Ambulance,Scene 1,verified,10,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+11,Savages (feat. Alice Cooper),Savages (feat. Alice Cooper),Scene 1,verified,11,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+12,Santa Monica,Santa Monica,Scene 1,verified,12,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+13,Make Up Your Mind,Make Up Your Mind,Scene 1,verified,13,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+14,By the Way - Vocal Remix,By the Way - Vocal Remix,Scene 1,verified,14,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+15,Say Nothing,Say Nothing,Scene 1,verified,15,unchanged,SA-0001 certified sequence,Certified and unchanged from baseline
+16,Medusa (Stone),Drag Me to Hell,Scene 2,verified,17,moved,SD-0002 v1.0 plus VC-005 scene map,Moved from baseline 17 to engineered 16
+17,The One,Medusa (Stone),Scene 2,inferred from explicit transition evidence,20,moved,SD-0002; TES-0016; TA-0016,Moved from baseline 20 to engineered 17; verified adjacency after Medusa (Stone)
+18,Nothing Could Come Between Us,Barricade,Scene 2,inferred from explicit transition evidence,21,moved,SD-0002; TES-0017; TA-0017,Moved from baseline 21 to engineered 18; verified adjacency after The One
+19,Not Meant to Be,Wake Up Call,Scene 2,verified,32,moved,SD-0002 v1.0 plus SA-0002 transition inventory,Moved from baseline 32 to engineered 19
+20,Say Goodbye,The One,Scene 2,verified,22,moved,SD-0002 v1.0 decision SD-0002-004,Moved from baseline 22 to engineered 20; follows Not Meant to Be
+21,Hate My Life,Nothing Could Come Between Us,Scene 2,verified,25,moved,SD-0002 v1.0 decision SD-0002-005,Moved from baseline 25 to engineered 21
+22,Hurricane,Say Goodbye,Scene 2,verified,23,moved,SD-0002 v1.0 decision SD-0002-007,Moved from baseline 23 to engineered 22
+23,The Truth Is... (I Lied About Everything),Hurricane,Scene 2,verified,30,moved,SD-0002 v1.0 decision SD-0002-006,Moved from baseline 30 to engineered 23
+24,,Get In Line,Scene 2,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+25,,Hate My Life,Scene 2,unresolved,,unresolved,No explicit repository position evidence,Baseline song moved to engineered 21; replacement unresolved
+26,,History of Violence,Scene 2,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+27,,Shape of My Heart,Scene 2,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+28,,In Ruins,Scene 2,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+29,,Since You've Been Gone,Scene 2,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+30,,The Truth Is... (I Lied About Everything),Scene 2,unresolved,,unresolved,No explicit repository position evidence,Baseline song moved to engineered 23; replacement unresolved
+31,,Echoes,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+32,,Not Meant to Be,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline song moved to engineered 19; replacement unresolved
+33,,Two Of Us (Stuck),Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+34,,Livin' My Life Like a Country Song (feat. Joe Don Rooney of Rascal Flatts),Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+35,,Winnebago (Lay Low),Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+36,,Does It Really Matter,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+37,,Strangers,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+38,,All or Nothing,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+39,,Sideways,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+40,,Hello Lonely (Walk Away from This),Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+41,,Easy to Love You,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+42,,World Keeps Spinning,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+43,,Out of My Head,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+44,,Angel,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+45,,Head Above Water,Scene 3,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+46,,Hallelujah,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+47,,We Were Men,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+48,,Funeral Song,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+49,,Drown,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+50,,Cold Water,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+51,,Wicked Game,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+52,,Straight Jacket,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+53,,G.O.A.T,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+54,,PCH,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+55,,Glass Jaw,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+56,,What's Your Name,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+57,,Got Me Wrong,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+58,,Inside,Scene 4,unresolved,,unresolved,No explicit repository position evidence,Baseline candidate only; engineered position unresolved
+59,,So Happy - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+60,,By the Way - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+61,,Not Meant to Be - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+62,,Out of My Head - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+63,,Easy to Love You - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+64,,Angel - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+65,,Santa Monica - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+66,,Habits (Stay High) - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+67,,Not Meant to Be - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+68,,The One - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+69,,Rx (Medicate) - Symphonic Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+70,,Medusa (Stone) - Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+71,,No Surprise - Live Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+72,,Got Me Wrong - Live Acoustic,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+73,,Fake - Demo,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+74,,Santa Monica - Demo,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+75,,Better Off - Demo,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+76,,Since You've Been Gone - Demo,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+77,,No Surprise - Demo,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+78,,Santa Monica - Demo,Archive,unresolved,,baseline retained pending confirmation,VC-005 archive boundary only,Archive membership verified; internal order not yet engineered
+
