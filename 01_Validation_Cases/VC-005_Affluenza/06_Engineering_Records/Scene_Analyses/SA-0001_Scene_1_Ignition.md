@@ -4,8 +4,8 @@
 
 - **Validation Case:** VC-005 — Theory of a Deadman: *Affluenza*
 - **Track Range:** 1–15
-- **Status:** In Progress
-- **Current Audit Coverage:** Transition 1 → 2 complete
+- **Status:** Certified
+- **Certification:** SC-0001
 
 ## Scene Objective
 
@@ -13,48 +13,49 @@ Introduce Theory of a Deadman's identity with confidence, establish listener tru
 
 ## Engineering Intent
 
-Scene 1 should move through identity, confirmation, escalation, first payoff, contrast, and anticipation. It must represent attitude, melody, humor, heaviness, modern material, legacy material, and deep-catalog credibility without resolving the concert too early.
+Scene 1 moves through identity, confirmation, escalation, first payoff, contrast, vulnerability, re-escalation, resolution, and closure. It represents attitude, melody, humor, heaviness, modern material, legacy material, and deep-catalog credibility without resolving the concert too early.
 
 ## Current Sequence
 
-| # | Song | Album | Primary Role |
-|---:|---|---|---|
-| 1 | Lowlife | The Truth Is... (Special Edition) | Identity Statement |
-| 2 | Dinosaur | Dinosaur | Momentum Confirmation |
-| 3 | Bad Girlfriend | Scars & Souvenirs (Special Edition) | Early Arena Payoff |
-| 4 | Blow | Savages | Escalation |
-| 5 | No Surprise - Edit | Gasoline (Special Edition) | Legacy Release |
-| 6 | Rx (Medicate) | Wake Up Call | Modern Contrast |
-| 7 | Affluenza | Say Nothing | Re-engagement |
-| 8 | Point to Prove | Theory of a Deadman (Special Edition) | Deep-Catalog Credibility |
-| 9 | Bitch Came Back | The Truth Is... (Special Edition) | Humor / Crowd Release |
-| 10 | Ambulance | Dinosaur | Texture Shift |
-| 11 | Savages (feat. Alice Cooper) | Savages | Heavy Statement |
-| 12 | Santa Monica | Gasoline (Special Edition) | Legacy Moment |
-| 13 | Make Up Your Mind | Theory of a Deadman (Special Edition) | Emotional Bridge |
-| 14 | By the Way - Vocal Remix | By the Way | Palette Change |
-| 15 | Say Nothing | Say Nothing | Scene Closer |
+| # | Song | Primary Role |
+|---:|---|---|
+| 1 | Lowlife | Identity Statement |
+| 2 | Dinosaur | Momentum Confirmation |
+| 3 | Bad Girlfriend | Early Arena Payoff |
+| 4 | Blow | Tonal Diversification |
+| 5 | No Surprise - Edit | Emotional Expansion |
+| 6 | Rx (Medicate) | Identity Reinforcement |
+| 7 | Affluenza | Conceptual Expansion |
+| 8 | Point to Prove | Narrative Re-centering |
+| 9 | Bitch Came Back | Humor / Crowd Engagement |
+| 10 | Ambulance | Major Emotional Pivot |
+| 11 | Savages (feat. Alice Cooper) | Re-escalation |
+| 12 | Santa Monica | Resolution / Legacy Anchor |
+| 13 | Make Up Your Mind | Emotional Deepening |
+| 14 | By the Way - Vocal Remix | Textural Refresh |
+| 15 | Say Nothing | Scene Closure |
 
 ## Transition Audit Status
 
-| Transition | Status | Score | Record |
-|---|---|---:|---|
-| Lowlife → Dinosaur | Keep | 9.5 | TA-0001 |
-| Dinosaur → Bad Girlfriend | Next | — | — |
+TA-0001 through TA-0015 were reviewed using Blue Team analysis, Red Team challenge, and scene-level systems review where required. TA-0013 and TA-0014 were initially deferred and later accepted after joint scene-level validation.
 
 ## Engineering Decisions
 
 - **ED-0001:** Preserve the four-scene primary-concert architecture and Archive block as the macro baseline.
+- No Engineering Change Proposal was required for Scene 1.
 
 ## Evidence References
 
-- **E-0001:** Macro architecture supports the project baseline.
-- **E-0002:** The opening transition confirms identity and cross-era range.
+- **E-0001 through E-0013:** Validated.
 
-## Current Risk
+## Risks and Resolution
 
-The opening three positions are all high-recognition, attitude-forward songs. The Track 2 → Track 3 audit must confirm that `Bad Girlfriend` changes the audience payoff enough to prevent functional repetition.
+The closing subsystem (`Santa Monica` → `Make Up Your Mind` → `By the Way - Vocal Remix` → `Say Nothing`) required systems-level review. Testing credible alternatives confirmed that the textural refresh at Track 14 prevents emotional saturation and supports the final landing at Track 15.
+
+## Certification Outcome
+
+Scene 1 satisfies the transition, narrative, engineering, and systems-integrity gates. It has been awarded **SC-0001**.
 
 ## Certification Recommendation
 
-**Draft — continue transition audit.**
+**Certified.**
