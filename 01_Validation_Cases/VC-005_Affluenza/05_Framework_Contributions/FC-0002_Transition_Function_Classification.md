@@ -1,7 +1,16 @@
 # FC-0002 — Transition Function Classification
 
-**Status:** Candidate  
-**Source:** VC-005 / ES-0001
+## Status
+
+Candidate — validated in Scene 1
+
+## Source
+
+VC-005 / ES-0001
+
+## Proposal
+
+Assign every transition one primary engineering function that describes its principal contribution to the scene and enables scene-level pattern analysis.
 
 ## Definition
 
