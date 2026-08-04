@@ -12,6 +12,10 @@
 
 Scene 2 is the first VC-005 scene designed through the complete CAS Scene Design lifecycle before transition validation. It follows the identity-establishing work of Scene 1 by revealing greater emotional complexity and transforming listener curiosity into emotional investment.
 
+## Engineering Intent
+
+Validate whether the locked Scene 2 design produces the intended listener-state progression in practice while preserving narrative, emotional, and movement-level integrity.
+
 ## Engineering Objective
 
 Reveal the complexity behind the confidence established in Scene 1.
