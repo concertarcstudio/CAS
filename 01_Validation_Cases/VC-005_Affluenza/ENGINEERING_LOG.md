@@ -33,6 +33,25 @@ Scene 1 passed transition, narrative, engineering, repository, and scene-level s
 
 **Sprint 001 complete. Scene 1 certified.**
 
+## ES-0002 — Sprint 002 Design
+
+### Design Milestone
+
+- SD-0002 created at v0.2.
+- Scene 2 engineering objective locked.
+- Scene 2 listener objective locked.
+- Scene thesis locked.
+- Opening Movement locked:
+  1. Medusa (Stone)
+  2. The One
+  3. Nothing Could Come Between Us
+  4. Not Meant to Be
+- Design Decision SD-0002-003 recorded.
+
+### Current Status
+
+Movement I is locked. Movement II — Integration remains under active design.
+
 ### Next Action
 
-Begin Sprint 002 — Scene 2 engineering, tracks 16–30.
+Evaluate `Say Goodbye` as the Integration opener and design the recovery and closing movements before SD-0002 v1.0 Design Lock.
