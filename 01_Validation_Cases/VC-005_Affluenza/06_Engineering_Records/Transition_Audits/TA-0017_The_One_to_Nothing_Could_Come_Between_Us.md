@@ -19,7 +19,7 @@
 
 `The One` to `Nothing Could Come Between Us`
 
-## Audit Objective
+## Intent
 
 Determine whether the reviewed evidence in TES-0017 supports retaining the transition from `The One` to `Nothing Could Come Between Us` as an advance from empathy toward credible hope and connection while preserving the vulnerability, authenticity, and emotional investment established by the preceding transition.
 
@@ -131,7 +131,7 @@ None were observed in the reviewed evidence. This result increases confidence in
 
 The three evidence gaps remain open and bounded to downstream validation. None constitutes contradicting evidence or justifies resequencing this transition.
 
-## Engineering Decision
+## Decision
 
 ### Result
 

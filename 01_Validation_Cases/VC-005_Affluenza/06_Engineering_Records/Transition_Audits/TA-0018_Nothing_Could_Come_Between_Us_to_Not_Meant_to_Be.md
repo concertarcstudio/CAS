@@ -22,7 +22,7 @@
 
 The canonical VC-005 sequence establishes this transition at engineered positions 18 to 19.
 
-## Audit Objective
+## Intent
 
 Determine whether the reviewed evidence in TES-0018 supports retaining the transition from `Nothing Could Come Between Us` to `Not Meant to Be` by demonstrating a credible evolution from hope toward reflective vulnerability and acceptance without breaking narrative continuity or Movement I.
 
@@ -137,7 +137,7 @@ None were observed in the reviewed evidence. This result increases confidence in
 
 The three evidence gaps remain open and bounded to downstream validation. None constitutes contradicting evidence or justifies resequencing this transition.
 
-## Engineering Decision
+## Decision
 
 ### Result
 
