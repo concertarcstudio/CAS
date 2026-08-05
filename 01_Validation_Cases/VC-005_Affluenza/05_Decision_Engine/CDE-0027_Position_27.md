@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.8 seconds
-Output:
 # CDE-0027 - Position 27 Decision Analysis
 
 ## Record Control
