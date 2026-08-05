@@ -125,7 +125,7 @@ The scores are desk-analysis estimates based on the declared function, canonical
 - **Unresolved uncertainty:** The repository lacks candidate-level audio, edition, duration, availability, lyrical, and transition manifests. The leading title may produce a more conclusive or binary effect in direct listening than the desk-analysis score suggests.
 - **Required human action:** Listen comparatively to the exact transitions `Shape of My Heart` -> `All or Nothing`, `Shape of My Heart` -> `Wake Up Call`, and `Shape of My Heart` -> `Get In Line`. Rank the three transitions and record the observations before any canonical change.
 
-The recommendation is provisional under CDE v1.0. Human listening is required at every confidence level. Confidence is Medium because all candidate-level audio behavior remains unverified despite the 5.2-point leading margin.
+The recommendation is provisional under CDE v1.0. Human listening is required at every confidence level. Confidence is Medium because all candidate-level audio behavior remains unverified despite the 4.1-point leading margin.
 
 ## Comparative Listening Package
 
