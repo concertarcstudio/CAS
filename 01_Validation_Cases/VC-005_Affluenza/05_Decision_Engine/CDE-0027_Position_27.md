@@ -5,17 +5,17 @@
 - **CDE Run ID:** CDE-0027
 - **Date:** 2026-08-05
 - **Owner:** Concert Arc Studio
-- **Status:** Production Run - Human Listening Required
+- **Status:** Approved - Human Decision Recorded
 - **CDE Version:** 1.0
-- **Canonical disposition:** No change
-- **Source References:** `CAS-DB-002_CAS_Decision_Engine_v1.0.md`; `CDE_SCORING_TEMPLATE.md`; `CDE_REPORT_TEMPLATE.md`; `CDE-0025_Position_25.md`; `CDE-0026_Position_26.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.4.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.2.csv`; `SD-0002_v1.1.md`; Position 26 human comparative-listening decision
+- **Canonical disposition:** Approved at Position 27 in canonical sequence v0.5
+- **Source References:** `CAS-DB-002_CAS_Decision_Engine_v1.0.md`; `CDE_SCORING_TEMPLATE.md`; `CDE_REPORT_TEMPLATE.md`; `CDE-0025_Position_25.md`; `CDE-0026_Position_26.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.5.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.2.csv`; `SD-0002_v1.1.md`; Position 26 human comparative-listening decision
 
 ## Decision Context
 
 - **Engineering Function:** Reflection. Position 27 must convert the consequence and unresolved question established by `Does It Really Matter` into inward consideration, allowing the listener to process meaning and cost without moving early into Choice, Commitment, or closure.
 - **Scene Objective:** Continue transforming reopened curiosity into deeper emotional investment while preserving a controlled path through the remaining Transition Arc and toward the Scene 3 threshold.
-- **Current Canonical Sequence:** Position 23 `In Ruins`; Position 24 `The Truth Is... (I Lied About Everything)`; Position 25 `History of Violence`; Position 26 `Does It Really Matter`; Position 27 unresolved.
-- **Design Constraints:** Do not alter the canonical sequence; use `Does It Really Matter` as the approved predecessor; do not reuse a placed song; do not draw from the Archive block at positions 59 through 78; avoid known same-album adjacency; preserve Reflection before Choice and Commitment; do not claim listening evidence that is absent from the repository.
+- **Current Canonical Sequence:** Position 23 `In Ruins`; Position 24 `The Truth Is... (I Lied About Everything)`; Position 25 `History of Violence`; Position 26 `Does It Really Matter`; Position 27 `Shape of My Heart`.
+- **Design Constraints:** During scoring, do not alter the canonical sequence; use `Does It Really Matter` as the approved predecessor; do not reuse a placed song; do not draw from the Archive block at positions 59 through 78; avoid known same-album adjacency; preserve Reflection before Choice and Commitment; do not claim listening evidence that is absent from the repository.
 - **Candidate Pool Source:** The 32 remaining unplaced baseline songs from original positions 16 through 58 in the v0.2 CSV after removing the nine songs placed in v0.3 and the approved Position 25 and Position 26 selections. Archive songs are outside run scope.
 
 ## Declared Criteria
@@ -99,28 +99,28 @@ The scores are desk-analysis estimates based on the declared function, canonical
 
 ## Recommendation
 
-- **Recommended candidate:** `Shape of My Heart` for comparative listening, not canonical placement
+- **Recommended candidate:** `Shape of My Heart`
 - **Confidence:** Medium
 - **Basis:** `Shape of My Heart` most directly performs Reflection, leads the declared scoring model by 1.7 points, and turns the unresolved question into self-examination without claiming Choice or Commitment.
 - **Unresolved uncertainty:** The repository still lacks candidate-level audio, edition, duration, availability, lyrical, and transition manifests. The Top 3 require direct comparison, and prior listening evidence identifies a stylistic-similarity risk for `Echoes`.
-- **Required human action:** Listen comparatively to the exact transitions `Does It Really Matter` to `Shape of My Heart`, `Does It Really Matter` to `Echoes`, and `Does It Really Matter` to `Hello Lonely (Walk Away from This)`. Record the evaluation before any canonical change.
+- **Required human action:** Complete. Comparative listening ranked `Shape of My Heart` first, `Hello Lonely (Walk Away from This)` second, and `Echoes` third.
 
-The recommendation is provisional under CDE v1.0. Human listening is required at every confidence level. Confidence remains Medium because transition behavior is unverified and the leading margin is 1.7 points.
+The CDE recommendation is preserved under v1.0. Confidence remains Medium because the leading scoring margin is 1.7 points. Human comparative listening is complete and agrees with the recommendation.
 
 ## Human Review
 
-- **Reviewer:** Pending
-- **Decision:** Return for comparative listening
-- **Listening notes:** Pending
-- **Override rationale:** Not applicable
-- **Canonical disposition:** No change. Position 27 remains unresolved.
+- **Reviewer:** Human engineering review
+- **Decision:** Approve `Shape of My Heart` at Position 27 for Reflection
+- **Listening notes:** Ranking: 1) `Shape of My Heart`; 2) `Hello Lonely (Walk Away from This)`; 3) `Echoes`
+- **Override rationale:** None. The human decision agrees with the CDE recommendation.
+- **Canonical disposition:** Approved in VC-005 canonical sequence v0.5.
 
 ## Integration Record
 
-- **Resulting TES:** Pending human approval and canonical publication
-- **Resulting TA:** Pending human approval, canonical publication, and TES evidence
+- **Resulting TES:** TES-0027, reviewed
+- **Resulting TA:** TA-0027, accepted
 - **Other records:** CDE-0025 and CDE-0026 establish the approved predecessors and the Position 26 override evidence
-- **Next action:** Compare `Does It Really Matter` to each Top 3 candidate, record observations, and approve, reject, override, or request a revised run.
+- **Next action:** Begin Position 28 decision analysis for the Choice function using `Shape of My Heart` as the approved predecessor.
 
 ## Engineering Metrics Block (EMB)
 
@@ -144,9 +144,9 @@ Reduction Ratio is `(32 - 3) / 32 = 90.6%`.
 | Second Score | 91.5 |
 | Margin to Second | 1.7 |
 | CDE Recommendation | Shape of My Heart |
-| Human Decision | Pending |
-| Recommendation Agreement | Pending |
-| Override Reason(s) | Pending |
+| Human Decision | Shape of My Heart |
+| Recommendation Agreement | Yes |
+| Override Reason(s) | None |
 | Confidence | Medium |
 
 ### Process Health
@@ -155,9 +155,9 @@ Reduction Ratio is `(32 - 3) / 32 = 90.6%`.
 |---|---|
 | Human Comparative Transitions Required | 3 |
 | Known Sequence Conflicts Applied | 0 |
-| Canonical Approved | No |
-| TES Required | Pending human approval |
-| TA Required | Pending TES evidence |
+| Canonical Approved | Yes |
+| TES Required | Complete: TES-0027 |
+| TA Required | Complete: TA-0027 |
 
 ### Repository
 
@@ -178,5 +178,5 @@ Reduction Ratio is `(32 - 3) / 32 = 90.6%`.
 - [x] Every score has a criterion-level rationale.
 - [x] Uncertainty and prior human evidence remain visible.
 - [x] Criteria and weights did not change after results were known.
-- [x] No canonical sequence file was changed.
+- [x] No canonical sequence file was changed during candidate scoring; canonical publication occurred only after the human decision.
 
