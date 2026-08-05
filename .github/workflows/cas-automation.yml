@@ -49,7 +49,7 @@ jobs:
 
       - name: Commit generated indexes
         run: |
-          if git diff --quiet -- generated; then
+          if [ -z "$(git status --porcelain -- generated)" ]; then
             echo "No generated index changes."
             exit 0
           fi
