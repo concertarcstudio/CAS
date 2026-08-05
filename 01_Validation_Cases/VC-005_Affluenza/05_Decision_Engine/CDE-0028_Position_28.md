@@ -211,4 +211,3 @@ Reduction Ratio is `(31 - 3) / 31 = 90.3%`.
 - [x] Criteria and weights did not change after results were known.
 - [x] No canonical sequence file was changed.
 
-

@@ -188,4 +188,3 @@ Reduction Ratio is `(30 - 3) / 30 = 90.0%`.
 - [x] Prior human function evidence and current uncertainty remain visible.
 - [x] Criteria and weights did not change after results were known.
 - [x] Canonical sequence v0.7 records the approved human decision.
-

@@ -121,4 +121,3 @@ The reviewed human decision supports the selected Commitment transition and agre
 This audit uses TES-0029 as its exclusive evidence source, preserves the CDE recommendation and scores, introduces no new listening observations, and limits the PASS decision to the audited transition.
 
 **Traceability:** `CDE-0028 -> TA-0028 -> CDE-0029 -> TES-0029 -> TA-0029 -> TES-0030 -> SA-0002 -> SC-0002`
-
