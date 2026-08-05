@@ -5,9 +5,9 @@
 - **CDE Run ID:** CDE-0026
 - **Date:** 2026-08-05
 - **Owner:** Concert Arc Studio
-- **Status:** Production Run - Human Listening Required
+- **Status:** Human Decision Accepted - Integrated
 - **CDE Version:** 1.0
-- **Canonical disposition:** No change
+- **Canonical disposition:** Approved for Position 26 and published in canonical sequence v0.4
 - **Source References:** `CAS-DB-002_CAS_Decision_Engine_v1.0.md`; `CDE_SCORING_TEMPLATE.md`; `CDE_REPORT_TEMPLATE.md`; `CDE-0025_Position_25.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.3.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.2.csv`; `SD-0002_v1.1.md`; approved Position 25 human comparative-listening decision
 
 ## Decision Context
@@ -110,18 +110,18 @@ The recommendation is provisional under CDE v1.0. Human listening is required at
 
 ## Human Review
 
-- **Reviewer:** Pending
-- **Decision:** Return for comparative listening
-- **Listening notes:** Pending
-- **Override rationale:** Not applicable
-- **Canonical disposition:** No change. Position 26 remains unresolved.
+- **Reviewer:** Human engineering review
+- **Decision:** Select `Does It Really Matter` for Position 26
+- **Listening notes:** `Echoes` was too stylistically similar to `History of Violence`, reducing perceived progression. `World Keeps Spinning` introduced same-album adjacency. `Does It Really Matter` provided the strongest architectural progression while maintaining continuity.
+- **Override rationale:** The human decision overrides the CDE recommendation because comparative listening exposed contextual architectural constraints not represented strongly enough in the desk-analysis score.
+- **Canonical disposition:** Approved and published at Position 26 in canonical sequence v0.4.
 
 ## Integration Record
 
-- **Resulting TES:** Pending human approval and canonical publication
-- **Resulting TA:** Pending human approval, canonical publication, and TES evidence
-- **Other records:** CDE-0025 human decision supplies the provisional predecessor only
-- **Next action:** Compare `History of Violence` to each Top 3 candidate, record observations, and approve, reject, override, or request a revised run.
+- **Resulting TES:** TES-0026
+- **Resulting TA:** TA-0026
+- **Other records:** Canonical sequence v0.4; CDE-0025 human decision supplies the approved predecessor
+- **Next action:** Begin Position 27 Reflection analysis from the canonical predecessor `Does It Really Matter`.
 
 ## Engineering Metrics Block (EMB)
 
@@ -145,8 +145,9 @@ Reduction Ratio is `(33 - 3) / 33 = 90.9%`.
 | Second Score | 91.1 |
 | Margin to Second | 2.4 |
 | CDE Recommendation | Echoes |
-| Human Decision | Pending |
-| Recommendation Agreement | Pending |
+| Human Decision | Does It Really Matter |
+| Recommendation Agreement | No - Human Override |
+| Override Reason(s) | Stylistic Similarity; Album Adjacency |
 | Confidence | Medium |
 
 ### Process Health
@@ -154,9 +155,9 @@ Reduction Ratio is `(33 - 3) / 33 = 90.9%`.
 | Metric | Value |
 |---|---|
 | Human Comparative Transitions Required | 3 |
-| Canonical Approved | No |
-| TES Required | Pending human approval |
-| TA Required | Pending TES evidence |
+| Canonical Approved | Yes |
+| TES Required | Complete - TES-0026 |
+| TA Required | Complete - TA-0026 |
 
 ### Repository
 
@@ -176,7 +177,7 @@ Reduction Ratio is `(33 - 3) / 33 = 90.9%`.
 - [x] Every score has a criterion-level rationale.
 - [x] Uncertainty and the provisional predecessor status remain visible.
 - [x] Criteria and weights did not change after results were known.
-- [x] No canonical sequence file was changed.
+- [x] Human decision and override rationale were recorded before canonical publication.
 
 
 
