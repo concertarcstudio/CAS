@@ -5,10 +5,10 @@
 - **CDE Run ID:** CDE-0028
 - **Date:** 2026-08-05
 - **Owner:** Concert Arc Studio
-- **Status:** CDE Recommendation Issued - Human Review Required
+- **Status:** Human Decision Approved - Override Recorded
 - **CDE Version:** 1.0
-- **Canonical disposition:** No change. Position 28 remains unresolved in canonical sequence v0.5.
-- **Source References:** `CAS-DB-002_CAS_Decision_Engine_v1.0.md`; `CDE_SCORING_TEMPLATE.md`; `CDE_REPORT_TEMPLATE.md`; `CDE-0025_Position_25.md`; `CDE-0026_Position_26.md`; `CDE-0027_Position_27.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.5.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.2.csv`; `SD-0002_v1.1.md`; `TA-0027_Does_It_Really_Matter_to_Shape_of_My_Heart.md`
+- **Canonical disposition:** `Wake Up Call` approved at Position 28 and published in canonical sequence v0.6.
+- **Source References:** `CAS-DB-002_CAS_Decision_Engine_v1.0.md`; `CDE_SCORING_TEMPLATE.md`; `CDE_REPORT_TEMPLATE.md`; `CDE-0025_Position_25.md`; `CDE-0026_Position_26.md`; `CDE-0027_Position_27.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.5.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.6.md`; `VC-005_Reconstructed_Canonical_Sequence_v0.2.csv`; `SD-0002_v1.1.md`; `TA-0027_Does_It_Really_Matter_to_Shape_of_My_Heart.md`; `TES-0028_Shape_of_My_Heart_to_Wake_Up_Call.md`; `TA-0028_Shape_of_My_Heart_to_Wake_Up_Call.md`
 
 ## Decision Context
 
@@ -139,18 +139,19 @@ For all three, compare perceived continuity, emotional temperature, agency, cont
 
 ## Human Review
 
-- **Reviewer:** Pending human engineering review
-- **Decision:** Pending comparative listening
-- **Listening notes:** Pending
-- **Override rationale:** Not applicable unless the human decision differs from the CDE recommendation
-- **Canonical disposition:** No change. Canonical sequence v0.5 remains authoritative through Position 27 only.
+- **Reviewer:** Human engineering review
+- **Decision:** Approve `Wake Up Call` at Position 28 for the Choice function
+- **Human ranking:** 1. `Wake Up Call`; 2. `All or Nothing`; 3. `Get In Line`
+- **Listening notes:** `All or Nothing` felt too absolute and began to perform the subsequent Commitment function too early. `Wake Up Call` better represented the act of making a choice while preserving progression from Reflection.
+- **Override rationale:** The selected candidate differs from the CDE recommendation because comparative listening showed that the recommendation compressed Choice and Commitment. `Wake Up Call` preserved the intended functional separation.
+- **Canonical disposition:** Approved. Canonical sequence v0.6 places `Wake Up Call` at Position 28.
 
 ## Integration Record
 
-- **Resulting TES:** Pending human decision and evidence collection
-- **Resulting TA:** Pending
+- **Resulting TES:** TES-0028
+- **Resulting TA:** TA-0028
 - **Other records:** CDE-0027 and TA-0027 establish the approved predecessor and Position 28 readiness
-- **Next action:** Conduct the three exact comparative transitions, record the human ranking, and stop before canonical publication.
+- **Next action:** Use the accepted Position 28 transition as the predecessor for Position 29 Commitment engineering.
 
 ## Engineering Metrics Block (EMB)
 
@@ -174,9 +175,9 @@ Reduction Ratio is `(31 - 3) / 31 = 90.3%`.
 | Second Score | 91.2 |
 | Margin to Second | 4.1 |
 | CDE Recommendation | All or Nothing |
-| Human Decision | Pending |
-| Recommendation Agreement | Pending |
-| Override Reason(s) | Pending |
+| Human Decision | Wake Up Call |
+| Recommendation Agreement | No |
+| Override Reason(s) | All or Nothing felt too absolute and began to perform Commitment too early; Wake Up Call better represented Choice while preserving progression from Reflection. |
 | Confidence | Medium |
 
 ### Process Health
@@ -185,9 +186,9 @@ Reduction Ratio is `(31 - 3) / 31 = 90.3%`.
 |---|---|
 | Human Comparative Transitions Required | 3 |
 | Known Sequence Conflicts Applied | 0 |
-| Canonical Approved | No |
-| TES Required | Pending human decision |
-| TA Required | Pending |
+| Canonical Approved | Yes |
+| TES Required | Complete: TES-0028 |
+| TA Required | Complete: TA-0028 |
 
 ### Repository
 
