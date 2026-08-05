@@ -4,7 +4,7 @@
 
 | ID | Title | Status |
 |---|---|---|
-| TA-0001 | TA-0001 â€” Lowlife â†’ Dinosaur | Unspecified |
+| TA-0001 | TA-0001 Ã¢â‚¬â€ Lowlife Ã¢â€ â€™ Dinosaur | Unspecified |
 | TA-0016 | TA-0016 - Medusa (Stone) to The One | Unspecified |
 | TA-0017 | TA-0017 - The One to Nothing Could Come Between Us | Unspecified |
 | TA-0018 | TA-0018 - Nothing Could Come Between Us to Not Meant to Be | Experimental trial, not a framework requirement. |
@@ -16,3 +16,4 @@
 | TA-0026 | TA-0026 - History of Violence to Does It Really Matter | Unspecified |
 | TA-0027 | TA-0027 - Does It Really Matter to Shape of My Heart | Accepted |
 | TA-0028 | TA-0028 - Shape of My Heart to Wake Up Call | Unspecified |
+| TA-0029 | TA-0029 - Wake Up Call to All or Nothing | Unspecified |
