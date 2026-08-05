@@ -15,4 +15,4 @@
 | TA-0023 | TA-0023 - In Ruins to The Truth Is... (I Lied About Everything) | Unspecified |
 | TA-0026 | TA-0026 - History of Violence to Does It Really Matter | Unspecified |
 | TA-0027 | TA-0027 - Does It Really Matter to Shape of My Heart | Accepted |
-
+| TA-0028 | TA-0028 - Shape of My Heart to Wake Up Call | Unspecified |
