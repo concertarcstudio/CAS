@@ -144,3 +144,7 @@ Also compare the complete four-song window `Shape of My Heart` -> `Wake Up Call`
 - [x] Position 30 remains unresolved.
 - [x] Canonical v0.7 remains unchanged.
 
+## Subsequent Human Decision and Promotion
+
+Fresh comparative listening selected `PCH` by far from the revised finalists. CDE-0030-R2 records the approved human decision and updated EMB. Canonical sequence v0.8 adopts `Get In Line` at Position 29 and `PCH` at Position 30. This R1 record remains the preserved revised-context analysis that preceded approval.
+

@@ -76,3 +76,4 @@ Version 0.6 remains preserved as the prior canonical reconstruction. Version 0.7
 ## Use Rule
 
 New transition work must use this v0.7 sequence. VC-005 v0.6 remains historical evidence and must not be edited.
+

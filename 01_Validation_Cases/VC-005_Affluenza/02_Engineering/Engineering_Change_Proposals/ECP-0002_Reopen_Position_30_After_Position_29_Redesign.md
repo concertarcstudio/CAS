@@ -37,3 +37,7 @@ The repository contains desk-analysis evidence but no candidate-level audio, edi
 
 Proceed with CDE-0030-R1 as a provisional branch analysis. Keep Position 30 unresolved until the human review is recorded. If the redesign is approved, create a new canonical version and the required TES and TA records. If rejected, close the iteration without changing v0.7.
 
+## Final Disposition
+
+Approved on 2026-08-05. Fresh comparative listening selected `PCH` by far after `Get In Line`. The redesign is promoted in canonical sequence v0.8 through CDE-0029-R1, CDE-0030-R2, TES-0029-R1, TA-0029-R1, TES-0030, and TA-0030. Canonical v0.7 and its production records remain preserved as historical evidence.
+

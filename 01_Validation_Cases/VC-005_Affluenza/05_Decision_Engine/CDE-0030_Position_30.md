@@ -191,3 +191,4 @@ Reduction Ratio is `(29 - 3) / 29 = 89.7%`.
 - [x] Prior human function evidence and current uncertainty remain visible.
 - [x] Criteria and weights did not change after results were known.
 - [x] Canonical sequence v0.7 remained unchanged during analysis.
+

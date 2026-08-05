@@ -44,3 +44,12 @@ Changing Position 29 alters the predecessor, candidate pool, and narrative input
 
 Do not edit v0.7, CDE-0029, TES-0029, TA-0029, or the original CDE-0030. They remain the published engineering history on main.
 
+## Promotion Disposition
+
+- Status: Approved and promoted on 2026-08-05
+- Position 29 decision: `Get In Line`
+- Position 30 decision: `PCH`
+- Listening result: `PCH` selected by far from the revised finalists
+- Current authority: `VC-005_Reconstructed_Canonical_Sequence_v0.8.md`
+- Historical preservation: canonical v0.7 and its CDE, TES, and TA records remain unchanged
+

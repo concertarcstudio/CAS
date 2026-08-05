@@ -4,4 +4,5 @@
 
 | ID | Title | Status |
 |---|---|---|
-| — | No artifacts found | — |
+| ECP-0001 | ECP-0001 - Insert In Ruins Before The Truth Is | Approved |
+| ECP-0002 | ECP-0002 - Reopen Position 30 After Position 29 Redesign | Unspecified |
