@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.2 seconds
-Output:
 # CDE Work Prompt Template
 
 Use this prompt to begin a bounded CDE v1.0 run. Replace every bracketed field. Do not remove unknowns. Mark them as gaps.
@@ -51,4 +48,3 @@ Reduce the supplied candidate pool to an explainable shortlist for human listeni
 - Confidence assessment
 - Human-review recommendation
 - Draft CDE report
-

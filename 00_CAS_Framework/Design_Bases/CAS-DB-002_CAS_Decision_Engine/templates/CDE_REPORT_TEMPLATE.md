@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 0.9 seconds
-Output:
 # CAS Decision Engine Report
 
 ## Record Control
@@ -65,4 +62,3 @@ Output:
 - **Resulting TA:** [ID or pending]
 - **Other records:** [IDs or none]
 - **Next action:** [Bounded next step]
-

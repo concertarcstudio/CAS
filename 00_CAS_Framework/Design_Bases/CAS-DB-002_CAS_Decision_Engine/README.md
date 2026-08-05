@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.1 seconds
-Output:
 # CAS-DB-002 Package
 
 This directory contains the tracked source package for **CAS-DB-002, CAS Decision Engine (CDE) v1.0**.
@@ -18,4 +15,3 @@ Git is the authoritative source for the Design Basis, figure specifications, and
 ## Release Boundary
 
 Version 1.0 defines the minimum CDE method and reusable records. It does not include final figure renders, automation, software implementation, or case-specific decisions.
-

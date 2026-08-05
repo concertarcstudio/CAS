@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1 seconds
-Output:
 # CDE Scoring Template
 
 ## Run Control
@@ -53,4 +50,3 @@ Use the 0 to 5 scale in CAS-DB-002. Duplicate criterion columns as needed.
 - [ ] Every score has a rationale.
 - [ ] Uncertainty and close rankings remain visible.
 - [ ] No criteria or weights changed after results were known, or a new run was opened.
-

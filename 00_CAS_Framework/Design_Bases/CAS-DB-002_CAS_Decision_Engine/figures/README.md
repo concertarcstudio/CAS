@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1 seconds
-Output:
 # CDE Figure Registry
 
 **Status:** Specifications only. No final figures are rendered in v1.0.
@@ -44,4 +41,3 @@ All listed figures are placeholders for a future FDS-compliant rendering pass. P
 - **Required content:** Define Function, Set Constraints, Evaluate Candidates, Recommend, Human Approve, Canonical Placement, Observe in TES, Analyze in TA.
 - **Key distinction:** The function is defined before candidates are promoted, and verification occurs after approval.
 - **Render status:** Future FDS-compliant rendering required.
-

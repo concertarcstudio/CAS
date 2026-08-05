@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.2 seconds
-Output:
 # CAS-DB-002 - CAS Decision Engine (CDE) v1.0
 
 ## Record Control
@@ -132,4 +129,3 @@ The CDE will never:
 ## Version Control
 
 Version 1.0 is intentionally lean. Future revisions may refine criteria libraries, automation, or presentation only through explicit version control. Final figures CDE-001 through CDE-005 remain deferred for an approved FDS-compliant rendering pass.
-
